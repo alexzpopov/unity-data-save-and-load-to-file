@@ -1,10 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CustomButtonScripts.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameControl.cs">
     <Files>
-      <File FileName="Assets\Scritps\GameControl.cs" Line="23" Column="5" />
-      <File FileName="Assets\ButtonScripts.cs" Line="27" Column="1" />
-      <File FileName="Assets\Scripts\CustomButtonScripts.cs" Line="4" Column="20" />
+      <File FileName="Assets\Scripts\GameControl.cs" Line="64" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

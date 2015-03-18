@@ -33,6 +33,7 @@ public class GameControl : MonoBehaviour {
 	{
 		labels [0].text = "Health: " + health;
 		labels [1].text = "Experience: " + experience;
+		labels [2].text = "Filepath: " + filePath;
 	}
 
 	// Functions to manipulate "Player Data" via buttons
@@ -54,6 +55,12 @@ public class GameControl : MonoBehaviour {
 	public void loseExperience ()
 	{
 		experience -= 10;
+	}
+
+	//Exit game button function
+	public void exitGame () 
+	{
+		Application.Quit ();
 	}
 
 	// Save "Player data" to an external file
