@@ -5,6 +5,8 @@ Original inspiration from Unity Live Training: Data Persistence
 + Removed legacy parts
 + Refactored C#
 + Incorporated Unity3D 4.6 UI Tools
++ Added Filepath label
++ Added Exit "Game" button
 
 Copy, modify and publish commercially at will
 + Miikka Merikanto 2015
